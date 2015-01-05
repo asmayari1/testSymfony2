@@ -221,16 +221,4 @@ class ProduitController extends Controller
         ;
     }
 
-
-    public function listeProduitAction( \Produit\CategoryBundle\Entity\Category $category) {
-        $produits = $this->get('Doctrine')->getManager()
-
-            ->getRepository('ProduitCategoryBundle:Produit')
-            ->findByCategorie($category);
-
-        return $this->render('ProduitCategoryBundle:Produit:listeProduit.html.twig',
-            array('produits' =>     $produits,
-                'category' =>    $category )
-        );
-    }
 }

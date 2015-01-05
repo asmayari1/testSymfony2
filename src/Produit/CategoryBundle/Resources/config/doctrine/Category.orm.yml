@@ -17,7 +17,7 @@ Produit\CategoryBundle\Entity\Category:
                    type: string
                    length: '255'
 
-    oneToMany:
+    OneToMany:
                produits:
                  targetEntity: Produit
                  mappedBy: category

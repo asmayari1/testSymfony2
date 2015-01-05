@@ -29,6 +29,3 @@ produit_delete:
     defaults: { _controller: "ProduitCategoryBundle:Produit:delete" }
     requirements: { _method: post|delete }
 
-produit_par_categorie:
-    pattern:  /produit/{category}/
-    defaults: { _controller: ProduitCategoryBundle:Produit:listeProduit }

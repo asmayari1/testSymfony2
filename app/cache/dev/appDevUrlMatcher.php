@@ -200,15 +200,6 @@ class appDevUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirectab
             }
             not_produit_delete:
 
-            // produit_par_categorie
-            if (0 === strpos($pathinfo, '/produit/produit') && preg_match('#^/produit/produit/(?P<category>[^/]++)/?$#s', $pathinfo, $matches)) {
-                if (substr($pathinfo, -1) !== '/') {
-                    return $this->redirect($pathinfo.'/', 'produit_par_categorie');
-                }
-
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'produit_par_categorie')), array (  '_controller' => 'Produit\\CategoryBundle\\Controller\\ProduitController::listeProduitAction',));
-            }
-
         }
 
         if (0 === strpos($pathinfo, '/category')) {

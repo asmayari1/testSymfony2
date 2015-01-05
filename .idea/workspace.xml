@@ -1,7 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ee7259-91a1-433f-8f12-08b2f10c056c" name="Default" comment="" />
+    <list default="true" id="f8ee7259-91a1-433f-8f12-08b2f10c056c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d6/be/ef845bd6d2cc9e97871baf38d87d.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/classes.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/sessions/sess_golhst0ld04gal2hsofnmtgij5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/0e/19/d73af48495e61ac7049d27a65572.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/29/40/06504f9dd2536177eea9d64bbc5b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/38/70/8b4a263c5c509d0e48d20eb063fb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/40/f6/746f456415c6d54c91d18c9459dd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/43/17/6b893f40037bc8d1269b4110c795.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/63/50/064a9eaf63322b030a02555e590c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/64/0b/3076df2a1a20563d61295307c1ef.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/68/aa/ca242a1e0d61b704e50ed2002808.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/70/33/1205275d5e03a2f30925b44a4b39.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/7c/b1/f6ab90421eb54f01be5ae0288985.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/83/29/ec18e8981e3de07ae9a3b471d21a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/84/03/92f507022a80a3caf34c3f38450d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8a/19/0e0ea6bda12aa09da962b53aaf69.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ac/74/da508003e19043cce0b99dd65078.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/af/84/a1f4e022e399aca368a220ca1813.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/b1/7a/f05f0cb60ec19660379540636bb3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/bc/0d/4b43a938773c2b3822dd26254c10.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c0/6d/c26002e578550a06b814e2450c2e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c0/92/e3e39b70794d520b3ecddc1866f0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c4/a4/d615b550068bdd46487796568fd7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c8/5d/60877b765e2750584f30fbdefdd2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ca/d7/a86a26daa2f2bfb5de1011c5948e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/dc/56/d02a3a677ab7c53a8f64e431a15c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/de/ff/09201af4e4cb1f443f73bb5a9a3f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e0/04/e127dec2035fe9366ca912f830dd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e0/30/ce082d3de2d86db83b20a86f7cea.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/eb/0c/4e03fdb8e0cda657c70bfb98ddbc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/fe/51/cf942fd43a2ba69bdf658d8d69cf.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Controller-CategoryController#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Controller-CategoryController#newAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Controller-ProduitController#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#addProduit.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#getDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#getId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#getManyToOne.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#getNom.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#getProduits.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#removeProduit.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#setDescription.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#setId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#setManyToOne.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category#setNom.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category$description.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category$id.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category$manyToOne.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category$nom.cache.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/Produit-CategoryBundle-Controller-ProduitController.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/Produit-CategoryBundle-Controller-CategoryController#showAction.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Category.orm.yml" afterPath="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Category.orm.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Category.php" afterPath="$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Produit.php" afterPath="$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Produit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Produit/CategoryBundle/Controller/ProduitController.php" afterPath="$PROJECT_DIR$/src/Produit/CategoryBundle/Controller/ProduitController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Produit/CategoryBundle/Form/ProduitType.php" afterPath="$PROJECT_DIR$/src/Produit/CategoryBundle/Form/ProduitType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/produit.yml" afterPath="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/produit.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/views/Category/show.html.twig" afterPath="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/views/Category/show.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="testSymfony2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +100,8 @@
       <file leaf-file-name="Produit.orm.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Produit.orm.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="27" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-              <folding>
-                <marker date="1420477183276" expanded="true" signature="0:674" placeholder="Produit\CategoryBundle\Entity\Produit:" />
-                <marker date="1420477183276" expanded="true" signature="439:645" placeholder="manyToOne:" />
-              </folding>
+            <state line="16" column="10" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,16 +109,16 @@
       <file leaf-file-name="Produit.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Produit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2142">
+            <state line="11" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="-2.254902" vertical-offset="72" max-vertical-offset="2159">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/category.yml">
+      <file leaf-file-name="CategoryRepository.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/CategoryRepository.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="52" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -56,22 +127,10 @@
       <file leaf-file-name="Category.orm.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Category.orm.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="30" selection-start="358" selection-end="359" vertical-scroll-proportion="-5.04" vertical-offset="95" max-vertical-offset="493">
+            <state line="17" column="12" selection-start="466" selection-end="466" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="493">
               <folding>
-                <marker date="1420477211219" expanded="true" signature="0:631" placeholder="Produit\CategoryBundle\Entity\Category:" />
-                <marker date="1420477211219" expanded="true" signature="151:487" placeholder="fields:" />
-                <marker date="1420477211219" expanded="true" signature="492:602" placeholder="oneToMany:" />
-                <marker date="1420477211219" expanded="true" signature="518:602" placeholder="produits:" />
+                <marker date="1420491886030" expanded="true" signature="492:602" placeholder="OneToMany:" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listProduit.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/views/Produit/listProduit.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -79,8 +138,19 @@
       <file leaf-file-name="ProduitController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Controller/ProduitController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="7" selection-end="11" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="4029">
+            <state line="182" column="5" selection-start="5094" selection-end="5094" vertical-scroll-proportion="-0.33333334" vertical-offset="3009" max-vertical-offset="3825">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/views/Category/show.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="578">
+              <folding>
+                <element signature="tag#ul#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,27 +167,25 @@
       <file leaf-file-name="produit.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/produit.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="663">
-              <folding>
-                <marker date="1420476391347" expanded="true" signature="710:866" placeholder="produit_delete:" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Category.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="6" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.66796875" vertical-offset="1494" max-vertical-offset="2482">
+            <state line="31" column="0" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CategoryController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Controller/CategoryController.php">
+      <file leaf-file-name="category.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/category.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3825">
+            <state line="19" column="52" selection-start="548" selection-end="548" vertical-scroll-proportion="0.38247862" vertical-offset="144" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Category.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="90" column="23" selection-start="1232" selection-end="1240" vertical-scroll-proportion="-3.7843137" vertical-offset="1337" max-vertical-offset="2465">
               <folding />
             </state>
           </provider>
@@ -149,6 +217,8 @@
       <command text="s doctrine:schema:update --force" />
       <command text="s doctrine:database:create" />
       <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:generate:entities Category" />
+      <command text="s doctrine:generate:entities ProduitCategoryBundle" />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
@@ -170,15 +240,16 @@
         <option value="$PROJECT_DIR$/app/config/routing_dev.yml" />
         <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Form/CategoryType.php" />
-        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Form/ProduitType.php" />
-        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Produit.php" />
         <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/views/Produit/listProduit.html.twig" />
-        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Controller/ProduitController.php" />
-        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/produit.yml" />
         <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Produit.orm.yml" />
-        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Category.orm.yml" />
         <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Category.php" />
         <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Form/ProduitType.php" />
+        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Category.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Controller/ProduitController.php" />
+        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Produit.php" />
+        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/produit.yml" />
+        <option value="$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/views/Category/show.html.twig" />
       </list>
     </option>
   </component>
@@ -223,228 +294,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Produit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CategoryBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Produit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CategoryBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Produit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CategoryBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Produit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CategoryBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Produit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CategoryBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Produit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CategoryBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Entity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Produit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CategoryBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -452,7 +301,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testSymfony2 - Copie" />
     <property name="options.lastSelected" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -504,12 +353,18 @@
       <created>1420467836203</created>
       <updated>1420467836203</updated>
     </task>
+    <task id="LOCAL-00001" summary="modification au niveau de produit">
+      <created>1420487519703</created>
+      <updated>1420487519703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26065573" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -518,9 +373,9 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44262296" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44918033" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5147541" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1557377" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -543,6 +398,9 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="modification au niveau de produit" />
+    <MESSAGE value="probleme au niveau de l'affichage" />
+    <option name="LAST_COMMIT_MESSAGE" value="probleme au niveau de l'affichage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -590,13 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/CategoryRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="62" max-vertical-offset="357">
@@ -620,23 +471,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Form/ProduitType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="33" selection-start="662" selection-end="662" vertical-scroll-proportion="-7.269231" vertical-offset="168" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/views/Produit/show.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="16" selection-start="476" selection-end="476" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Form/CategoryType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="243" selection-end="243" vertical-scroll-proportion="-2.6153846" vertical-offset="51" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
@@ -655,32 +492,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Controller/ProduitController.php">
+    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Form/CategoryType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="7" selection-end="11" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="4029">
+        <state line="9" column="1" selection-start="243" selection-end="243" vertical-scroll-proportion="-2.6153846" vertical-offset="51" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Form/ProduitType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="32" selection-start="600" selection-end="600" vertical-scroll-proportion="-5.9615383" vertical-offset="168" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Produit.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="10" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Category.orm.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="30" selection-start="358" selection-end="359" vertical-scroll-proportion="-5.04" vertical-offset="95" max-vertical-offset="493">
+        <state line="17" column="12" selection-start="466" selection-end="466" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="493">
           <folding>
-            <marker date="1420477211219" expanded="true" signature="0:631" placeholder="Produit\CategoryBundle\Entity\Category:" />
-            <marker date="1420477211219" expanded="true" signature="151:487" placeholder="fields:" />
-            <marker date="1420477211219" expanded="true" signature="492:602" placeholder="oneToMany:" />
-            <marker date="1420477211219" expanded="true" signature="518:602" placeholder="produits:" />
+            <marker date="1420491886030" expanded="true" signature="492:602" placeholder="OneToMany:" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/doctrine/Produit.orm.yml">
+    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Controller/ProduitController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="27" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding>
-            <marker date="1420477183276" expanded="true" signature="0:674" placeholder="Produit\CategoryBundle\Entity\Produit:" />
-            <marker date="1420477183276" expanded="true" signature="439:645" placeholder="manyToOne:" />
-          </folding>
+        <state line="182" column="5" selection-start="5094" selection-end="5094" vertical-scroll-proportion="-0.33333334" vertical-offset="3009" max-vertical-offset="3825">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -691,32 +536,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/produit.yml">
+    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="663">
-          <folding>
-            <marker date="1420476391347" expanded="true" signature="710:866" placeholder="produit_delete:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/category.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="52" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+        <state line="90" column="23" selection-start="1232" selection-end="1240" vertical-scroll-proportion="-3.7843137" vertical-offset="1337" max-vertical-offset="2465">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Produit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2142">
+        <state line="11" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="-2.254902" vertical-offset="72" max-vertical-offset="2159">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/Category.php">
+    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Entity/CategoryRepository.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="6" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.66796875" vertical-offset="1494" max-vertical-offset="2482">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/views/Category/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="578">
+          <folding>
+            <element signature="tag#ul#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/produit.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Produit/CategoryBundle/Resources/config/routing/category.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="52" selection-start="548" selection-end="548" vertical-scroll-proportion="0.38247862" vertical-offset="144" max-vertical-offset="612">
           <folding />
         </state>
       </provider>

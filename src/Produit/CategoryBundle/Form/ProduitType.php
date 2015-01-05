@@ -18,8 +18,8 @@ class ProduitType extends AbstractType
 
          $builder->add('category', 'entity', array(
              'class'    => 'ProduitCategoryBundle:Category',
-             'property' => 'name',
-             'multiple' => true))
+             'property' => 'nom',
+             'multiple' => false))
              ->add('nom')
              ->add('description')
 

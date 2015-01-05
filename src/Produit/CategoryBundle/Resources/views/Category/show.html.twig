@@ -3,6 +3,10 @@
 {% block body -%}
     <h1>Category</h1>
 
+    {%for produit in entity.produits%}
+        {{entity.nom}}
+     {% endfor%}
+
     <table class="record_properties">
         <tbody>
             <tr>
