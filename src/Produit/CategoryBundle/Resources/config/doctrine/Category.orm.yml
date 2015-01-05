@@ -1,0 +1,24 @@
+Produit\CategoryBundle\Entity\Category:
+    type: entity
+    table: category
+    repositoryClass: Produit\CategoryBundle\Entity\CategoryRepository
+    fields:
+
+               id:
+                   type: integer
+                   id: true
+                   generator:
+                       strategy: AUTO
+
+               nom:
+                   type: string
+                   length: '255'
+               description:
+                   type: string
+                   length: '255'
+
+    oneToMany:
+               produits:
+                 targetEntity: Produit
+                 mappedBy: category
+    lifecycleCallbacks: {  }

@@ -1,0 +1,3 @@
+produit_category_homepage:
+    pattern:  /
+    defaults: { _controller: ProduitCategoryBundle:Default:index }
