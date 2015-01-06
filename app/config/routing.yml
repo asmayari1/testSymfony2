@@ -1,12 +1,5 @@
-produit_category:
-    resource: "@ProduitCategoryBundle/Resources/config/routing.yml"
+bundle_product:
+    resource: "@BundleProductBundle/Resources/config/routing.yml"
     prefix:   /
 
-ProduitCategoryBundle_produit:
-    resource: "@ProduitCategoryBundle/Resources/config/routing/produit.yml"
-    prefix:   /produit
-
-ProduitCategoryBundle_category:
-    resource: "@ProduitCategoryBundle/Resources/config/routing/category.yml"
-    prefix:   /category
 
