@@ -2,22 +2,25 @@ Produit\CategoryBundle\Entity\Category:
     type: entity
     table: category
     repositoryClass: Produit\CategoryBundle\Entity\CategoryRepository
+
+    id:
+            id:
+                type: integer
+                id: true
+                generator:
+                    strategy: AUTO
+
     fields:
 
-               id:
-                   type: integer
-                   id: true
-                   generator:
-                       strategy: AUTO
 
-               nom:
-                   type: string
-                   length: '255'
-               description:
-                   type: string
-                   length: '255'
+            nom:
+                type: string
+                length: '255'
+            description:
+                type: string
+                length: '255'
 
-    OneToMany:
+    oneToMany:
                produits:
                  targetEntity: Produit
                  mappedBy: category

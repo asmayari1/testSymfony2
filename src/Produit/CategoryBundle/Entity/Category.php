@@ -113,7 +113,7 @@ class Category
     public function addProduit(\Produit\CategoryBundle\Entity\Produit $produits)
     {
         $this->produits[] = $produits;
-    
+
         return $this;
     }
 
@@ -130,7 +130,7 @@ class Category
     /**
      * Get produits
      *
-     * @return \Doctrine\Common\Collections\Collection 
+     * @return \Doctrine\Common\Collections\Collection
      */
     public function getProduits()
     {

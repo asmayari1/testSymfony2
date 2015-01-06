@@ -3,20 +3,23 @@ Produit\CategoryBundle\Entity\Produit:
     table: produit
     repositoryClass: Produit\CategoryBundle\Entity\ProduitRepository
 
+    id:
+               id:
+                   type: integer
+                   id: true
+                   generator:
+                       strategy: AUTO
+
     fields:
-          id:
-               type: integer
-               id: true
-               generator:
-               strategy: AUTO
 
 
-          nom:
-               type: string
-               length: '255'
-          description:
-               type: string
-               length: '255'
+               nom:
+                   type: string
+                   length: '255'
+               description:
+                    type: string
+                    length: '255'
+
 
     manyToOne:
            category:

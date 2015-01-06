@@ -106,14 +106,14 @@ class Produit
     public function setCategory(\Produit\CategoryBundle\Entity\Category $category = null)
     {
         $this->category = $category;
-    
+
         return $this;
     }
 
     /**
      * Get category
      *
-     * @return \Produit\CategoryBundle\Entity\Category 
+     * @return \Produit\CategoryBundle\Entity\Category
      */
     public function getCategory()
     {
