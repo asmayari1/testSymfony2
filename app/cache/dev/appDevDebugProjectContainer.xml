@@ -2234,11 +2234,13 @@
               <service class="Doctrine\ORM\Mapping\Driver\DriverChain" public="false">
                 <call method="addDriver">
                   <argument type="service">
-                    <service class="Doctrine\ORM\Mapping\Driver\AnnotationDriver" public="false">
-                      <argument type="service" id="annotation_reader"/>
+                    <service class="Doctrine\ORM\Mapping\Driver\SimplifiedYamlDriver" public="false">
                       <argument type="collection">
-                        <argument>C:\wamp2\www\testSymfony2\src\Bundle\ProductBundle\Entity</argument>
+                        <argument key="C:\wamp2\www\testSymfony2\src\Bundle\ProductBundle\Resources\config\doctrine">Bundle\ProductBundle\Entity</argument>
                       </argument>
+                      <call method="setGlobalBasename">
+                        <argument>mapping</argument>
+                      </call>
                     </service>
                   </argument>
                   <argument>Bundle\ProductBundle\Entity</argument>

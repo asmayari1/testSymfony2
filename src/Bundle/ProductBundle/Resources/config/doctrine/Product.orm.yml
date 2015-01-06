@@ -1,0 +1,30 @@
+Bundle\ProductBundle\Entity\Product:
+    type: entity
+    table: product
+    repositoryClass: Bundle\ProductBundle\Entity\ProductRepository
+    fields:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+        name:
+            type: string
+            length: 255
+        description:
+            type: text
+        price:
+            type: float
+
+        number:
+            type: number
+    manyToOne:
+        category:
+            targetEntity: Category
+            inversedBy: products
+            joinColumn:
+              name: category_id
+              referencedColumnName: id
+
+
+    lifecycleCallbacks: {  }
