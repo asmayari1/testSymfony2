@@ -15,7 +15,6 @@ Bundle\ProductBundle\Entity\Product:
             type: text
         price:
             type: float
-
         number:
             type: integer
     manyToOne:
@@ -25,6 +24,4 @@ Bundle\ProductBundle\Entity\Product:
             joinColumn:
               name: category_id
               referencedColumnName: id
-
-
     lifecycleCallbacks: {  }

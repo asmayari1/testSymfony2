@@ -13,7 +13,6 @@ class Product
      * @var integer
      */
     private $id;
-
     /**
      * @var string
      */
@@ -29,6 +28,15 @@ class Product
      */
     private $price;
 
+    /**
+     * @var integer
+     */
+    private $number;
+
+    /**
+     * @var \Bundle\ProductBundle\Entity\Category
+     */
+    private $category;
 
     /**
      * Get id
@@ -108,11 +116,29 @@ class Product
     {
         return $this->price;
     }
-    /**
-     * @var \Bundle\ProductBundle\Entity\Category
-     */
-    private $category;
 
+    /**
+     * Set number
+     *
+     * @param integer $number
+     * @return Product
+     */
+    public function setNumber($number)
+    {
+        $this->number = $number;
+    
+        return $this;
+    }
+
+    /**
+     * Get number
+     *
+     * @return integer 
+     */
+    public function getNumber()
+    {
+        return $this->number;
+    }
 
     /**
      * Set category
@@ -135,33 +161,5 @@ class Product
     public function getCategory()
     {
         return $this->category;
-    }
-    /**
-     * @var number
-     */
-    private $number;
-
-
-    /**
-     * Set number
-     *
-     * @param \number $number
-     * @return Product
-     */
-    public function setNumber(\number $number)
-    {
-        $this->number = $number;
-    
-        return $this;
-    }
-
-    /**
-     * Get number
-     *
-     * @return \number 
-     */
-    public function getNumber()
-    {
-        return $this->number;
     }
 }
