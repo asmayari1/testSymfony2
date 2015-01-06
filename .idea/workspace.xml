@@ -2,107 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ee7259-91a1-433f-8f12-08b2f10c056c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Controller-CategoryController#showAction.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Controller-CategoryController.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Controller-ProduitController#newAction.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Controller-ProduitController.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category$produits.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Category.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit#getCategory.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit#getDescription.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit#getId.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit#getNom.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit#setCategory.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit#setDescription.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit#setId.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit#setNom.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit$category.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit$description.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit$id.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit$nom.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Produit-CategoryBundle-Entity-Produit.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Symfony-Bundle-TwigBundle-Controller-ExceptionController#showAction.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Symfony-Bundle-TwigBundle-Controller-ExceptionController.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Symfony-Bundle-WebProfilerBundle-Controller-ProfilerController#toolbarAction.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\annotations\Symfony-Bundle-WebProfilerBundle-Controller-ProfilerController.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\classes.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\classes.php.meta" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\profiler\index.csv" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\sessions\sess_golhst0ld04gal2hsofnmtgij5" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\twig\19\c8\5f8cc6ec61fe71cc40fce9fe68ae.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\twig\65\19\a10781c9e5805ac319ece6351a96.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\app\cache\dev\twig\d6\be\ef845bd6d2cc9e97871baf38d87d.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Controller\CategoryController.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Controller\DefaultController.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Controller\ProduitController.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\DependencyInjection\Configuration.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\DependencyInjection\ProduitCategoryExtension.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Entity\Category.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Entity\CategoryRepository.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Entity\Produit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Entity\ProduitRepository.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Form\CategoryType.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Form\ProduitType.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\ProduitCategoryBundle.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\config\doctrine\Category.orm.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\config\doctrine\Produit.orm.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\config\routing.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\config\routing\category.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\config\routing\produit.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\config\services.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\doc\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\translations\messages.fr.xlf" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Category\edit.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Category\index.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Category\new.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Category\show.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Default\index.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Produit\edit.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Produit\index.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Produit\listProduit.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Produit\new.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Resources\views\Produit\show.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Tests\Controller\CategoryControllerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Tests\Controller\DefaultControllerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp2\www\testSymfony2\src\Produit\CategoryBundle\Tests\Controller\ProduitControllerTest.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/63/50/064a9eaf63322b030a02555e590c.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/63/50/064a9eaf63322b030a02555e590c.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/29/40/06504f9dd2536177eea9d64bbc5b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/29/40/06504f9dd2536177eea9d64bbc5b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/de/ff/09201af4e4cb1f443f73bb5a9a3f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/de/ff/09201af4e4cb1f443f73bb5a9a3f.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8a/19/0e0ea6bda12aa09da962b53aaf69.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/8a/19/0e0ea6bda12aa09da962b53aaf69.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/70/33/1205275d5e03a2f30925b44a4b39.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/70/33/1205275d5e03a2f30925b44a4b39.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/64/0b/3076df2a1a20563d61295307c1ef.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/64/0b/3076df2a1a20563d61295307c1ef.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/bc/0d/4b43a938773c2b3822dd26254c10.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/bc/0d/4b43a938773c2b3822dd26254c10.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/eb/0c/4e03fdb8e0cda657c70bfb98ddbc.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/eb/0c/4e03fdb8e0cda657c70bfb98ddbc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c8/5d/60877b765e2750584f30fbdefdd2.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/c8/5d/60877b765e2750584f30fbdefdd2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/43/17/6b893f40037bc8d1269b4110c795.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/43/17/6b893f40037bc8d1269b4110c795.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/40/f6/746f456415c6d54c91d18c9459dd.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/40/f6/746f456415c6d54c91d18c9459dd.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/38/70/8b4a263c5c509d0e48d20eb063fb.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/38/70/8b4a263c5c509d0e48d20eb063fb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/84/03/92f507022a80a3caf34c3f38450d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/84/03/92f507022a80a3caf34c3f38450d.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/af/84/a1f4e022e399aca368a220ca1813.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/af/84/a1f4e022e399aca368a220ca1813.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ca/d7/a86a26daa2f2bfb5de1011c5948e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ca/d7/a86a26daa2f2bfb5de1011c5948e.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c0/6d/c26002e578550a06b814e2450c2e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/c0/6d/c26002e578550a06b814e2450c2e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/68/aa/ca242a1e0d61b704e50ed2002808.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/68/aa/ca242a1e0d61b704e50ed2002808.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e0/30/ce082d3de2d86db83b20a86f7cea.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/e0/30/ce082d3de2d86db83b20a86f7cea.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/fe/51/cf942fd43a2ba69bdf658d8d69cf.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/fe/51/cf942fd43a2ba69bdf658d8d69cf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/dc/56/d02a3a677ab7c53a8f64e431a15c.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/dc/56/d02a3a677ab7c53a8f64e431a15c.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c4/a4/d615b550068bdd46487796568fd7.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/c4/a4/d615b550068bdd46487796568fd7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/0e/19/d73af48495e61ac7049d27a65572.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/0e/19/d73af48495e61ac7049d27a65572.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ac/74/da508003e19043cce0b99dd65078.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ac/74/da508003e19043cce0b99dd65078.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e0/04/e127dec2035fe9366ca912f830dd.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/e0/04/e127dec2035fe9366ca912f830dd.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/c0/92/e3e39b70794d520b3ecddc1866f0.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/c0/92/e3e39b70794d520b3ecddc1866f0.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/83/29/ec18e8981e3de07ae9a3b471d21a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/83/29/ec18e8981e3de07ae9a3b471d21a.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/b1/7a/f05f0cb60ec19660379540636bb3.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/b1/7a/f05f0cb60ec19660379540636bb3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/7c/b1/f6ab90421eb54f01be5ae0288985.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/7c/b1/f6ab90421eb54f01be5ae0288985.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testSymfony2.iws" />
@@ -135,10 +37,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routing.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bundle/ProductBundle/Resources/config/routing.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="265">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bundle/ProductBundle/Entity/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="136" column="7" selection-start="2061" selection-end="2061" vertical-scroll-proportion="-7.0" vertical-offset="2130" max-vertical-offset="2720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Category.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Bundle/ProductBundle/Entity/Category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
               <folding />
             </state>
           </provider>
@@ -162,7 +82,6 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="s doctrine:generate:entities Category" />
       <command text="s doctrine:schema:update --force" />
       <command text="s doctrine:generate:entities Produit" />
       <command text="s doctrine:schema:update --force" />
@@ -187,6 +106,7 @@
       <command text="s cache:clear" />
       <command text="s doctrine:generate:entity" />
       <command text="s cache:clear" />
+      <command text="s doctrine:generate:entity" />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
@@ -332,37 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testSymfony2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProductBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -439,12 +329,16 @@
       <created>1420536866437</created>
       <updated>1420536866437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="version après nettoyage de projet">
+      <created>1420539445396</created>
+      <updated>1420539445396</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -457,7 +351,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44918033" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5229508" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43114755" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -483,7 +377,8 @@
     <MESSAGE value="modification au niveau de produit" />
     <MESSAGE value="probleme au niveau de l'affichage" />
     <MESSAGE value="travail demandé:&#10;liste de produits&#10;liste de produits par category" />
-    <option name="LAST_COMMIT_MESSAGE" value="travail demandé:&#10;liste de produits&#10;liste de produits par category" />
+    <MESSAGE value="version après nettoyage de projet" />
+    <option name="LAST_COMMIT_MESSAGE" value="version après nettoyage de projet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -536,6 +431,20 @@
     <entry file="file://$PROJECT_DIR$/src/Bundle/ProductBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bundle/ProductBundle/Entity/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="136" column="7" selection-start="2061" selection-end="2061" vertical-scroll-proportion="-7.0" vertical-offset="2130" max-vertical-offset="2720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bundle/ProductBundle/Entity/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
           <folding />
         </state>
       </provider>
