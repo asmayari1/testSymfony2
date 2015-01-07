@@ -50,13 +50,20 @@ doctrine:
         user:     %database_user%
         password: %database_password%
         charset:  UTF8
+
         # if using pdo_sqlite as your database driver, add the path in parameters.yml
         # e.g. database_path: %kernel.root_dir%/data/data.db3
         # path:     %database_path%
 
     orm:
         auto_generate_proxy_classes: %kernel.debug%
-        auto_mapping: true
+        entity_managers:
+                   default:
+                       auto_mapping: true
+                       mappings:
+                          ApplicationSonataUserBundle: ~
+                          FOSUserBundle: ~
+                          SonataUserBundle: ~
 
 # Swiftmailer Configuration
 swiftmailer:
@@ -83,7 +90,40 @@ sonata_admin:
         blocks:
             # display one dashboard block in the top zone with a col-md-6 HTML class
             -
-                position: center
-                class:  col-md-12
+                position: right
+                class:  col-md-6
                 type: sonata.admin.block.admin_list
 
+sonata_user:
+    security_acl:     false
+    class:
+        user:         Application\Sonata\UserBundle\Entity\User
+    admin:                  # Admin Classes
+        user:
+            class:          Sonata\UserBundle\Admin\Entity\UserAdmin
+            controller:     SonataAdminBundle:CRUD
+            translation:    SonataUserBundle
+
+        group:
+            class:          Sonata\UserBundle\Admin\Entity\GroupAdmin
+            controller:     SonataAdminBundle:CRUD
+            translation:    SonataUserBundle
+    profile:  # Profile Form (firstname, lastname, etc ...)
+        form:
+            type:               sonata_user_profile
+            handler:            sonata.user.profile.form.handler.default
+            name:               sonata_user_profile_form
+            validation_groups:  [Profile]
+
+fos_user:
+    db_driver:      orm # can be orm or odm
+    firewall_name:  main
+    user_class:     Application\Sonata\UserBundle\Entity\User
+
+
+    group:
+        group_class:   Application\Sonata\UserBundle\Entity\Group
+        group_manager: sonata.user.orm.group_manager                    # If you're using doctrine orm (use sonata.user.mongodb.user_manager for mongodb)
+
+    service:
+        user_manager: sonata.user.orm.user_manager                      # If you're using doctrine orm (use sonata.user.mongodb.group_manager for mongodb)
