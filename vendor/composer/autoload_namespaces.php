@@ -15,6 +15,8 @@ return array(
     'Sensio\\Bundle\\FrameworkExtraBundle' => array($vendorDir . '/sensio/framework-extra-bundle'),
     'Sensio\\Bundle\\DistributionBundle' => array($vendorDir . '/sensio/distribution-bundle'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log'),
+    'Mopa\\Bundle\\BootstrapBundle\\' => array($vendorDir . '/mopa/bootstrap-bundle'),
+    'Mopa\\Bridge\\Composer' => array($vendorDir . '/mopa/composer-bridge/src'),
     'Knp\\Menu\\' => array($vendorDir . '/knplabs/knp-menu/src'),
     'Knp\\Bundle\\MenuBundle' => array($vendorDir . '/knplabs/knp-menu-bundle'),
     'Incenteev\\ParameterHandler' => array($vendorDir . '/incenteev/composer-parameter-handler'),

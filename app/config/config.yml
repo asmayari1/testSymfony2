@@ -83,6 +83,7 @@ sonata_admin:
         blocks:
             # display one dashboard block in the top zone with a col-md-6 HTML class
             -
-                position: left
-                class: col-md-6
+                position: center
+                class:  col-md-12
                 type: sonata.admin.block.admin_list
+

@@ -21,7 +21,10 @@
         "incenteev/composer-parameter-handler": "~2.0",
         "knplabs/knp-menu-bundle": "~2.0",
         "sonata-project/admin-bundle": "~2.3@dev",
-        "sonata-project/doctrine-orm-admin-bundle": "~2.3@dev"
+        "sonata-project/doctrine-orm-admin-bundle": "~2.3@dev",
+        "mopa/bootstrap-bundle": "v3.0.0-beta3",
+        "twbs/bootstrap": "v3.0.0"
+
     },
     "scripts": {
         "post-install-cmd": [

@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3a9f379ebf9e541aa96aef64bbe6ed7f",
+    "hash": "54ade4dab90658a228f4556cac3b9fb6",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -976,6 +976,122 @@
             "time": "2014-12-29 21:29:35"
         },
         {
+            "name": "mopa/bootstrap-bundle",
+            "version": "v3.0.0-beta3",
+            "target-dir": "Mopa/Bundle/BootstrapBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phiamo/MopaBootstrapBundle.git",
+                "reference": "94f0628a0abff3bed46ebc640137a9f0d6bb0cff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phiamo/MopaBootstrapBundle/zipball/94f0628a0abff3bed46ebc640137a9f0d6bb0cff",
+                "reference": "94f0628a0abff3bed46ebc640137a9f0d6bb0cff",
+                "shasum": ""
+            },
+            "require": {
+                "mopa/composer-bridge": "~1.3",
+                "symfony/console": "~2.3",
+                "symfony/form": "~2.3",
+                "symfony/framework-bundle": "~2.3",
+                "symfony/twig-bundle": "~2.3"
+            },
+            "suggest": {
+                "craue/formflow-bundle": "~2.0",
+                "jlong/sass-twitter-bootstrap": "dev-master",
+                "knplabs/knp-menu-bundle": "~2.0@dev",
+                "knplabs/knp-paginator-bundle": "~2.3",
+                "mopa/bootstrap-sandbox-bundle": "~2.3",
+                "twbs/bootstrap": ">2.0,<4.0-dev"
+            },
+            "type": "symfony-bundle",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Mopa\\Bundle\\BootstrapBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Philipp A. Mohrenweiser",
+                    "email": "phiamo@googlemail.com",
+                    "homepage": "http://bootstrap.mohrenweiserpartner.de"
+                },
+                {
+                    "name": "Community contributions",
+                    "homepage": "https://github.com/phiamo/MopaBootstrapBundle/contributors"
+                }
+            ],
+            "description": "Easy integration of twitters bootstrap into symfony2",
+            "keywords": [
+                "bootstrap",
+                "bootstrap form",
+                "extra form",
+                "form",
+                "template"
+            ],
+            "time": "2013-10-25 11:56:03"
+        },
+        {
+            "name": "mopa/composer-bridge",
+            "version": "v1.3.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phiamo/MopaComposerBridge.git",
+                "reference": "bbbd9b4595993cda248a996f21af3298f12fa331"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phiamo/MopaComposerBridge/zipball/bbbd9b4595993cda248a996f21af3298f12fa331",
+                "reference": "bbbd9b4595993cda248a996f21af3298f12fa331",
+                "shasum": ""
+            },
+            "require": {
+                "symfony/console": ">=2.0.0"
+            },
+            "type": "symfony-bridge",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.3.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Mopa\\Bridge\\Composer": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Community contributions",
+                    "homepage": "https://github.com/phiamo/MopaComposerBridge/contributors"
+                },
+                {
+                    "name": "Philipp A. Mohrenweiser",
+                    "email": "phiamo@googlemail.com"
+                }
+            ],
+            "description": "Symfony2 Composer Bridge",
+            "homepage": "http://bootstrap.mohrenweiserpartner.de",
+            "keywords": [
+                "Symfony2",
+                "composer"
+            ],
+            "time": "2014-12-29 13:24:12"
+        },
+        {
             "name": "psr/log",
             "version": "1.0.0",
             "source": {
@@ -1015,17 +1131,17 @@
         },
         {
             "name": "sensio/distribution-bundle",
-            "version": "v2.3.7",
+            "version": "v2.3.8",
             "target-dir": "Sensio/Bundle/DistributionBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioDistributionBundle.git",
-                "reference": "59085bedb5bffbc7305f42b836daa2ed3173be3b"
+                "reference": "9a72f821957141ee3d9703da3fa8266d59ef4b1c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/59085bedb5bffbc7305f42b836daa2ed3173be3b",
-                "reference": "59085bedb5bffbc7305f42b836daa2ed3173be3b",
+                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/9a72f821957141ee3d9703da3fa8266d59ef4b1c",
+                "reference": "9a72f821957141ee3d9703da3fa8266d59ef4b1c",
                 "shasum": ""
             },
             "require": {
@@ -1057,7 +1173,7 @@
                 "configuration",
                 "distribution"
             ],
-            "time": "2014-12-30 08:39:48"
+            "time": "2015-01-07 07:11:03"
         },
         {
             "name": "sensio/framework-extra-bundle",
@@ -1892,6 +2008,43 @@
             "time": "2014-12-03 12:04:45"
         },
         {
+            "name": "twbs/bootstrap",
+            "version": "v3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/twbs/bootstrap.git",
+                "reference": "e8a1df5f060bf7e6631554648e0abde150aedbe4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/twbs/bootstrap/zipball/e8a1df5f060bf7e6631554648e0abde150aedbe4",
+                "reference": "e8a1df5f060bf7e6631554648e0abde150aedbe4",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "sugeng tigefa",
+                    "email": "tigefa@gmail.com"
+                },
+                {
+                    "name": "Jacob Thornton",
+                    "email": "jacobthornton@gmail.com"
+                }
+            ],
+            "description": "Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.",
+            "homepage": "http://getbootstrap.com",
+            "keywords": [
+                "bootstrap",
+                "css"
+            ],
+            "time": "2013-08-19 21:18:20"
+        },
+        {
             "name": "twig/extensions",
             "version": "v1.0.1",
             "source": {
@@ -2001,7 +2154,8 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "sonata-project/admin-bundle": 20,
-        "sonata-project/doctrine-orm-admin-bundle": 20
+        "sonata-project/doctrine-orm-admin-bundle": 20,
+        "mopa/bootstrap-bundle": 10
     },
     "prefer-stable": false,
     "prefer-lowest": false,
